@@ -1,5 +1,37 @@
+h2{
+    color: red;
+    text-align: right;
 
-body{
+}
 
-    background-color: yellow;
+h3{
+
+    color: violet;
+    text-align: left;
+}
+
+b{
+    color: aqua;
+}
+
+em{
+    color: chocolate;
+}
+
+strong{
+    color: darkred;
+}
+
+sub{
+    color: rosybrown;
+
+}
+
+sup{
+    color: chartreuse;
+}
+
+mark{
+    color: white;
+    background-color: blue;
 }
