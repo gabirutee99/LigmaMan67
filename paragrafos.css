@@ -1,0 +1,9 @@
+p{
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: rgb(224, 11, 47);
+    text-decoration-thickness: 0,2em;
+    text-align: center;
+    text-transform: capitalize;
+    text-shadow: 3px 3px 3px red;
+}

@@ -1,21 +1,31 @@
-#titulo_h1{
-    color: green;
+html{
+
+	scroll-behavior: smooth;
 }
 
-#título_h2{
+body{
+
+    background-color: yellow;
+}
+
+#elemento_h1{
+
+    color: green;
+    text-align: center;
+}
+
+#elemento_h2{
     color: red;
     text-align: right;
-
 }
 
-#título_h3{
-
+#elemento_h3{
     color: violet;
     text-align: left;
 }
 
 #elemento_b{
-    color: aqua;
+    color: darkolivegreen;
 }
 
 #elemento_em{
@@ -27,8 +37,7 @@
 }
 
 #elemento_sub{
-    color: rosybrown;
-
+    color: brown;
 }
 
 #elemento_sup{
@@ -38,4 +47,17 @@
 #elemento_mark{
     color: white;
     background-color: blue;
+}
+
+#secao1{
+    display: inline-block;
+}
+
+#secao2{
+    display: inline-block;
+}
+
+#secao3{
+
+    display: inline-block;
 }
